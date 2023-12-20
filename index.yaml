@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  counter:
+  - apiVersion: v2
+    created: "2023-12-20T10:42:08.912075+03:00"
+    description: An Example for ELM Training
+    digest: ca09ae84b31022bdfc38a4e34150670700b26cb04646f585beb8c8fac44405fb
+    name: counter
+    type: application
+    urls:
+    - counter-2023.12.20.tgz
+    version: 2023.12.20
+generated: "2023-12-20T10:42:08.910873+03:00"
