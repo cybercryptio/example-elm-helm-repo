@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   counter:
   - apiVersion: v2
-    created: "2023-12-20T10:42:08.912075+03:00"
+    created: "2023-12-20T10:52:15.681028+03:00"
     description: An Example for ELM Training
     digest: ca09ae84b31022bdfc38a4e34150670700b26cb04646f585beb8c8fac44405fb
     name: counter
@@ -10,4 +10,13 @@ entries:
     urls:
     - counter-2023.12.20.tgz
     version: 2023.12.20
-generated: "2023-12-20T10:42:08.910873+03:00"
+  hello-elm:
+  - apiVersion: v1
+    created: "2023-12-20T10:52:15.681151+03:00"
+    description: Hello ELM
+    digest: b10bee3796fed8790ef4199fb6be46af39d1c8617fa658bd2e539694038493c4
+    name: hello-elm
+    urls:
+    - hello-elm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-20T10:52:15.6802+03:00"
